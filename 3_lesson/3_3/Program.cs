@@ -11,4 +11,4 @@ void S(int n)
 }
 
 Console.WriteLine("Введите число: ");
-S(int.Parse(Console.ReadLine())!);
+S(int.Parse(Console.ReadLine()!));
